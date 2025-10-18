@@ -6,3 +6,5 @@ SnipX September Update Dev V3
 ✅ Flask backend (/backend)
 ✅ React + Vite frontend (/src)
 ✅ Includes setup guide, developer notes, and run instructions
+✅ Major Ui Design Upgrade 
+✅ Google Login Enabled 
